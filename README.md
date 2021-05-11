@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Olá pessoal ! </h1>
 
-### Meu nome é Marcelo, sou Desenvolvimento Mobile. <img src="https://emojis.slackmojis.com/emojis/images/1575217269/7231/babyyoda.png?1575217269" width="30"/>
+### Meu nome é Marcelo, sou Desenvolvedor Mobile. <img src="https://emojis.slackmojis.com/emojis/images/1575217269/7231/babyyoda.png?1575217269" width="30"/>
 
 ### Linguagens e Ferramentas 🛠
 
