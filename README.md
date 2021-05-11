@@ -20,7 +20,7 @@
 
 ### Estatísticas ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=maeceloacm1998)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=)
 
 <p align="left">
 <a href="https://github.com/maeceloacm1998">
