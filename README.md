@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Olá pessoa ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Olá pessoal ! </h1>
 
-### Meu nome é Marcelo <img src="https://emojis.slackmojis.com/emojis/images/1575217269/7231/babyyoda.png?1575217269" width="30"/>, atualmente trabalho como Estagiário em Desenvolvimento Mobile
+### Meu nome é Marcelo, sou Estagiário em Desenvolvimento Mobile. <img src="https://emojis.slackmojis.com/emojis/images/1575217269/7231/babyyoda.png?1575217269" width="30"/>
 
-### Languages & Tools 🛠
+### Linguagens e Ferramentas 🛠
 
 ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
@@ -18,7 +18,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
-### Analytics ⚙️
+### Estatísticas ⚙️
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=maeceloacm1998)
 
