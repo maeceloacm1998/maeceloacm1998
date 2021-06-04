@@ -5,12 +5,13 @@
 ### Linguagens e Ferramentas 🛠
 
 ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
