@@ -9,13 +9,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=ionic)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-05122A?style=flat&logo=firebase)&nbsp;
 
