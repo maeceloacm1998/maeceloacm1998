@@ -33,7 +33,7 @@
 - [ ] Aprender CI/CD.
 - [x] Aprender ContextAPI.
 - [ ] Aprender Redux.
-- [ ] Publicar uma aplicação na Play Store.
+- [ ] Publicar uma aplicação própria na Play Store.
 
 ### Hard-Skills 🛠
 
