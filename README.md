@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Olá pessoal ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Welcome you to my GitHub! </h1>
 
-### Meu nome é Marcelo, sou desenvolvedor React-Native 📱
+### My name is Marcelo, i work as a React-Native developer 📱
 
 </br>
 
@@ -29,6 +29,7 @@
 - [x] Ser promovido para Junior.
 - [x] Aprender React-Native.
 - [ ] Aprender testes unitários.
+- [ ] Estudar Inglës.
 - [ ] Aprender CI/CD.
 - [x] Aprender ContextAPI.
 - [ ] Aprender Redux.
