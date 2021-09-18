@@ -55,7 +55,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
-<h3 align="center"> My GitLab Metrics 📈</h3>
+<h3 align="center"> Minhas métricas no GitLab 📈</h3>
 <p align="center">
   <a href="https://gitlab.com/maeceloacm1998">
     <img src="https://combinedcodingstats.azurewebsites.net/GitLab/maeceloacm1998?platform=gitlab&headers=true&background=false">
