@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Welcome you to my GitHub! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Welcome to my GitHub! </h1>
 
 ### My name is Marcelo, i work as a React-Native developer 📱
 
