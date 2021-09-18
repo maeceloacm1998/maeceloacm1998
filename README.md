@@ -35,7 +35,7 @@
 - [ ] Aprender Redux.
 - [ ] Publicar uma aplicação na Play Store.
 
-### Linguagens e Ferramentas 🛠
+### Hard-Skills 🛠
 
 ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
