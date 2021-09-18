@@ -11,41 +11,32 @@
 </a>
   <br/>
   <br/>
-  <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
+  <a target="_blank" href="https://www.linkedin.com/in/marcelochmendes/?locale=en_US">
     <img src="/icons/linkedin.png">
   </a>
-  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
-    <img src="/icons/stack-overflow.png">
-  </a>
-  <a target="_blank" href="http://gitlab.com/Riquettinha">
+  <a target="_blank" href="https://gitlab.com/maeceloacm1998">
     <img src="/icons/gitlab.png">
   </a>
-  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg">
-    <img src="/icons/skype.png">
-  </a>
-  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
+  <a target="_blank" href="mailto:marcelochmendes@gmail.com">
     <img src="/icons/email.png">
   </a>
-  <a target="_blank" href="http://instagram.com/Riquettinha">
+  <a target="_blank" href="http://instagram.com/marceloo_ant">
     <img src="/icons/instagram.png">
-  </a>
-  <a target="_blank" href="http://twitter.com/Riquettinha">
-    <img src="/icons/twitter.png">
   </a>
 
 </p>
 
 **Metas para 2021:**
-- [X] Aprender como deixar aplicações mais performáticas com React.
-- [X] Entrar na área de programação.
-- [X] Ser promovido para Junior.
-- [X] Aprender React-Native.
+
+- [x] Aprender como deixar aplicações mais performáticas com React.
+- [x] Entrar na área de programação.
+- [x] Ser promovido para Junior.
+- [x] Aprender React-Native.
 - [ ] Aprender testes unitários.
 - [ ] Aprender CI/CD.
-- [X] Aprender ContextAPI.
+- [x] Aprender ContextAPI.
 - [ ] Aprender Redux.
 - [ ] Publicar uma aplicação na Play Store.
-
 
 ### Linguagens e Ferramentas 🛠
 
@@ -67,18 +58,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
-
-
 <h3 align="center"> My GitLab Metrics 📈</h3>
 <p align="center">
   <a href="https://gitlab.com/maeceloacm1998">
     <img src="https://combinedcodingstats.azurewebsites.net/GitLab/maeceloacm1998?platform=gitlab&headers=true&background=false">
   </a>
-</p>
-
-### Vamos manter contato ? 🤝
-
-<p align="left">
-<a href="https://www.linkedin.com/in/marcelochmendes/"><img src="https://img.shields.io/badge/-Marcelo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:marcelochmendes@gmail.com"><img src="https://img.shields.io/badge/-marcelochmendes@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
