@@ -1,6 +1,51 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Olá pessoal ! </h1>
 
-### Meu nome é Marcelo, sou Desenvolvedor Mobile. 
+### Meu nome é Marcelo, sou desenvolvedor React-Native 📱
+
+</br>
+
+<p align="center">
+  <a href="https://github.com/maeceloacm1998">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=maeceloacm1998&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeceloacm1998&layout=compact&langs_count=8"/>
+</a>
+  <br/>
+  <br/>
+  <a target="_blank" href="http://linkedin.com/in/isabella-riquetti/?locale=en_US">
+    <img src="/icons/linkedin.png">
+  </a>
+  <a target="_blank" href="https://stackoverflow.com/users/6650677/isabella-riquetti?tab=profile">
+    <img src="/icons/stack-overflow.png">
+  </a>
+  <a target="_blank" href="http://gitlab.com/Riquettinha">
+    <img src="/icons/gitlab.png">
+  </a>
+  <a target="_blank" href="https://join.skype.com/invite/BYybLhPYhrYg">
+    <img src="/icons/skype.png">
+  </a>
+  <a target="_blank" href="mailto:isabella.riquetti@outlook.com">
+    <img src="/icons/email.png">
+  </a>
+  <a target="_blank" href="http://instagram.com/Riquettinha">
+    <img src="/icons/instagram.png">
+  </a>
+  <a target="_blank" href="http://twitter.com/Riquettinha">
+    <img src="/icons/twitter.png">
+  </a>
+
+</p>
+
+**Metas para 2021:**
+- [X] Aprender como deixar aplicações mais performáticas com React.
+- [X] Entrar na área de programação.
+- [X] Ser promovido para Junior.
+- [X] Aprender React-Native.
+- [ ] Aprender testes unitários.
+- [ ] Aprender CI/CD.
+- [X] Aprender ContextAPI.
+- [ ] Aprender Redux.
+- [ ] Publicar uma aplicação na Play Store.
+
 
 ### Linguagens e Ferramentas 🛠
 
@@ -22,22 +67,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
-### Estatísticas ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=maeceloacm1998)
 
-<p align="left">
-<a href="https://github.com/maeceloacm1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=maeceloacm1998&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeceloacm1998&layout=compact&langs_count=8"/>
-</a>
+<h3 align="center"> My GitLab Metrics 📈</h3>
+<p align="center">
+  <a href="https://gitlab.com/maeceloacm1998">
+    <img src="https://combinedcodingstats.azurewebsites.net/GitLab/maeceloacm1998?platform=gitlab&headers=true&background=false">
+  </a>
 </p>
-
-<!-- <p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p> -->
 
 ### Vamos manter contato ? 🤝
 
@@ -45,5 +82,3 @@
 <a href="https://www.linkedin.com/in/marcelochmendes/"><img src="https://img.shields.io/badge/-Marcelo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:marcelochmendes@gmail.com"><img src="https://img.shields.io/badge/-marcelochmendes@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-#### _References: [Statistics](https://github.com/anuraghazra/github-readme-stats) 
