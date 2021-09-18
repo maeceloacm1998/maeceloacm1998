@@ -16,10 +16,6 @@
   </a>
   <a target="_blank" href="https://gitlab.com/maeceloacm1998">
     <img src="/icons/gitlab.png">
-  </a>
-  <a target="_blank" href="mailto:marcelochmendes@gmail.com">
-    <img src="/icons/email.png">
-  </a>
   <a target="_blank" href="http://instagram.com/marceloo_ant">
     <img src="/icons/instagram.png">
   </a>
@@ -63,4 +59,10 @@
   <a href="https://gitlab.com/maeceloacm1998">
     <img src="https://combinedcodingstats.azurewebsites.net/GitLab/maeceloacm1998?platform=gitlab&headers=true&background=false">
   </a>
+</p>
+
+### Vamos manter contato ? 🤝
+
+<p align="left">
+<a href="mailto:marcelochmendes@gmail.com"><img src="https://img.shields.io/badge/-marcelochmendes@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
