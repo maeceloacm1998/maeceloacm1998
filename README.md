@@ -22,17 +22,15 @@
 
 </p>
 
-**Metas para 2021:**
+**Metas para 2022:**
 
-- [x] Aprender como deixar aplicações mais performáticas com React.
-- [x] Entrar na área de programação.
-- [x] Ser promovido para Junior.
-- [x] Aprender React-Native.
-- [ ] Aprender testes unitários.
-- [ ] Estudar Inglës.
-- [ ] Aprender CI/CD.
-- [x] Aprender ContextAPI.
-- [ ] Aprender Redux.
+- [X] Iniciar aprendizado em Kotlin.
+- [ ] Adquirir proeficiência em desenvolvimento de apps com Kotlin.
+- [ ] Aprender melhores práticas de teste unitário, de integração e e2e para React-Native.
+- [X] Estudar Inglës. ( Andamento...)
+- [X] Aprender fluxo de CI/CD com plataformas.
+- [ ] Aprender Redux para React-Native.
+- [ ] Começar projeto de portifólio.
 - [ ] Publicar uma aplicação própria na Play Store.
 
 ### Hard-Skills 🛠
@@ -51,9 +49,6 @@
 ![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodejs)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-05122A?style=flat&logo=firebase)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 <h3 align="center"> Minhas métricas no GitLab 📈</h3>
 <p align="center">
