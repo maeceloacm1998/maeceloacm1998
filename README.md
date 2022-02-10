@@ -26,10 +26,10 @@
 
 - [X] Iniciar aprendizado em Kotlin.
 - [ ] Adquirir proeficiência em desenvolvimento de apps com Kotlin.
-- [ ] Aprender melhores práticas de teste unitário, de integração e e2e para React-Native.
+- [X] Aprender melhores práticas de teste unitário, de integração e e2e para React-Native.
 - [X] Estudar Inglës. ( Andamento...)
 - [X] Aprender fluxo de CI/CD com plataformas.
-- [ ] Aprender Redux para React-Native.
+- [X] Aprender Redux para React-Native.
 - [ ] Começar projeto de portifólio.
 - [ ] Publicar uma aplicação própria na Play Store.
 
@@ -50,12 +50,6 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-05122A?style=flat&logo=firebase)&nbsp;
 
-<h3 align="center"> Minhas métricas no GitLab 📈</h3>
-<p align="center">
-  <a href="https://gitlab.com/maeceloacm1998">
-    <img src="https://combinedcodingstats.azurewebsites.net/GitLab/maeceloacm1998?platform=gitlab&headers=true&background=false">
-  </a>
-</p>
 
 ### Vamos manter contato ? 🤝
 
