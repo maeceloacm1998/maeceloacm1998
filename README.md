@@ -16,7 +16,7 @@
   </a>
   <a target="_blank" href="https://gitlab.com/maeceloacm1998">
     <img src="/icons/gitlab.png">
-  <a target="_blank" href="http://instagram.com/marceloo_ant">
+  <a target="_blank" href="https://www.instagram.com/tcheloo.jsx/">
     <img src="/icons/instagram.png">
   </a>
 
