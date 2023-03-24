@@ -20,17 +20,6 @@
 
 </p>
 
-**Metas para 2022:**
-
-- [X] Iniciar aprendizado em Kotlin.
-- [X] Adquirir proeficiência em desenvolvimento de apps com Kotlin.
-- [X] Aprender melhores práticas de teste unitário, de integração e e2e para React-Native.
-- [X] Estudar Inglës. ( Andamento...)
-- [X] Aprender fluxo de CI/CD com plataformas.
-- [X] Aprender Redux para React-Native.
-- [X] Começar projeto de portifólio.
-- [X] Publicar uma aplicação própria na Play Store.
-
 ### Hard-Skills 🛠
 
 ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
