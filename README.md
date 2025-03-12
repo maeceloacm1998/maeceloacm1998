@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Welcome to my GitHub! </h1>
 
-> Me chamo Marcelo, tenho 24 anos. Atualmente curso Sistemas de Informação pela Pontifícia Universidade Católicas de Minas Gerais e trabalho como desenvolvedor android na @americanas s.a. Sou uma pessoa conversativa e curiosa, sou proativo, assim trabalhando muito bem em equipe e sou apaixonado por tecnologia. Meu lema é que eu tenho sorte, sorte de fazer o que eu amo e receber por isso, pois meu sonho é sempre ajudar a sociedade com a tecnologia.
+> Me chamo Marcelo, tenho 27 anos. Formado em Sistemas de Informação pela Pontifícia Universidade Católicas de Minas Gerais e trabalho como desenvolvedor android na @Zig. Sou uma pessoa conversativa e curiosa, sou proativo, assim trabalhando muito bem em equipe e sou apaixonado por tecnologia. Meu lema é que eu tenho sorte, sorte de fazer o que eu amo e receber por isso, pois meu sonho é sempre ajudar a sociedade com a tecnologia.
 
 </br>
 
